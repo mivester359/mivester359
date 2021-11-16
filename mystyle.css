@@ -5,7 +5,7 @@ body {
 }
 
 #navigation {
-  font-size 18px;
+  font-size: 18px;
   background-color: green;
   border: 8px white;
   color: white;
@@ -13,8 +13,8 @@ body {
 }
 
 #title (
-  text-align: Left
-  font-size 50px;
+  text-align: center;
+  font-size: 200px;
   font-weight: bold;
   padding: 15px 15px;
 }
