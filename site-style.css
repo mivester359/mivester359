@@ -1,23 +1,27 @@
-
-
-body {
-  background-color: rgb(219, 120, 0);
-  font-family: "Arial";
-  color: white;
-}
-
-#navigation {
-  font-size: 18px;
-  background-color: green;
-  border: 8px white;
-  color: white;
-  text-align: center;
-}
-
-#title (
-  text-align: center;
-  font-size: 200px;
-  font-weight: bold;
-  padding: 15px 15px;
-}
-
+<html>
+  <head>
+    <link rel="stylesheet" href="site-style.css">
+  </head>
+  <body>
+    
+    <!--This adds a navigation header-->
+    <div id = "navigation">
+      <c>Matt Avery</c>
+      <u3><a href="contact.html">Contact</a></u3>
+      <u3><a href="portfolio.html">Portfolio</a></u3>
+      <u3><a href="index.html">About</a></u3>
+    </div>
+    
+    <div id = "title">
+      About
+    </div>
+  
+    <p><img src="me.jpg" style="float:right;width:400px;height:400px;padding: 0px 18px;">
+    <b>Hello!</b> My name’s Matt Avery and I’ve got two major hobbies: sculpting with cardboard and playing the trumpet.
+    I’ve used cardboard to sculpt a horse and buggy, cow head, camel in camo, and many more unexpected objects.
+    I started playing trumpet in 4th grade and have since performed around the world.
+    I hope to one day incorporate these two hobbies into my career. 
+    </p>
+    
+  </body>
+</html>
