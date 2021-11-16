@@ -1,5 +1,3 @@
-
-
 body {
   background-color: rgb(219, 120, 0);
   font-family: "Arial";
@@ -12,5 +10,12 @@ body {
   border: 8px white;
   color: white;
   text-align: center;
+}
+
+#title (
+  text-align: Left
+  font-size 50px;
+  font-weight: bold;
+  padding: 15px 15px;
 }
 
