@@ -13,7 +13,7 @@ body {
 }
 
 #title (
-  text-align: center;
+  text-align: left;
   font-size: 200px;
   font-weight: bold;
   padding: 15px 15px;
